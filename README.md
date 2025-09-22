@@ -7,6 +7,7 @@ How to use:
 ```
 Download vulkan mod.
 Download the libs.zip from here (check in actions).
-Unzip the libs.zip and you should be left with "vk-mod-an-libs.jar".
+Unzip the libs.zip
+You should be left with "vk-mod-an-libs.jar".
 Move that file with the vulkan mod into Minecraft mods.
 ```
