@@ -1,4 +1,4 @@
-An vulkan mod library builder for android, only for Minecraft java edition on Amethyst arm64 and arm32.
+An vulkan mod library builder for android, only for Minecraft java edition on Android arm64 and arm32.
 Check actions for builds.
 
 Vulkan mod android libs mod is just the patches  and libraries needed to run vulkan mod on android, it does NOT include the mod itself, you need to download it separately.
